@@ -1,0 +1,12 @@
+.table-list-to-do th:first-of-type {
+    width: 89%;
+}
+
+.marked {
+    color: #777777;
+    text-decoration: line-through;
+}
+
+.form-to-do {
+    padding-bottom: 60px;
+}
