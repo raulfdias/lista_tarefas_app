@@ -9,7 +9,7 @@
     "prod": "webpack --progress -p"
   },
   "keywords": [],
-  "author": "",
+  "author": "Raul Fernandes",
   "license": "ISC",
   "devDependencies": {
     "axios": "^0.15.3",

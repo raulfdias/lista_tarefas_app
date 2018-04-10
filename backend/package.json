@@ -1,7 +1,7 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "Node v8.9.4",
   "main": "src/loader.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,7 +9,7 @@
     "prod": "pm2 start src/loader.js --name todo-app -f"
   },
   "keywords": [],
-  "author": "",
+  "author": "Raul Fernandes",
   "license": "ISC",
   "devDependencies": {
     "body-parser": "^1.15.2",
